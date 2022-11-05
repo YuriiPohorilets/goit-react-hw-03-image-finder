@@ -1,4 +1,4 @@
-# Життєвий цикл компонента. Робота з REST API | goit-react-hw-03-phonebook
+# Життєвий цикл компонента. Робота з REST API | goit-react-hw-03-image-finder
 
 ## Критерії приймання
 
